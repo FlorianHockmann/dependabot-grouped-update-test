@@ -13,7 +13,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <junit-platform.version>1.8.0</junit-platform.version>
+        <junit-platform.version>1.10.1</junit-platform.version>
         <junit.version>5.8.0</junit.version>
     </properties>
 
