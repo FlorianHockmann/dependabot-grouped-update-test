@@ -8,7 +8,7 @@ updates:
   groups:
     junit:
       patterns:
-        - "junit*"
-        - "junit"
+      - "junit*"
+      - "junit"
   labels:
     - "java"
