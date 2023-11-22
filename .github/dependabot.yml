@@ -8,7 +8,6 @@ updates:
   groups:
     junit:
       patterns:
-      - "junit*"
       - "org.junit.*"
   labels:
     - "java"
