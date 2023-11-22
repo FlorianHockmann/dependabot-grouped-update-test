@@ -9,5 +9,6 @@ updates:
     junit:
       patterns:
         - "junit*"
+        - "junit"
   labels:
     - "java"
